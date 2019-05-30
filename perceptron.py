@@ -1,3 +1,6 @@
+#Função Main e função Plotar cedidas pelo professor Altino Dantas da Universidade Federal de Goiás
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import random
